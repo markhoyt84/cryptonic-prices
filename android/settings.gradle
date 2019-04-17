@@ -1,0 +1,3 @@
+rootProject.name = 'CryptonicPrices'
+
+include ':app'
